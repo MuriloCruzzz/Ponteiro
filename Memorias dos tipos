@@ -1,5 +1,7 @@
 // C06EX04.CPP
 
+// PONTEIRO NÃO APONTO O VALOR DE ESPAÇO IGUAL AO SEU TIPO PRIMITIVO
+
 #include <iostream>
 using namespace std;
 
